@@ -8,17 +8,17 @@
  * registers the activation and deactivation functions, and defines a function
  * that starts the plugin.
  *
- * @link              https://github.com/YassineCherkaoui
+ * @link              https://github.com/ABOULFATH-ZAKARIAE
  * @since             1.0.0
  * @package           Rating
  *
  * @wordpress-plugin
  * Plugin Name:       Rating
- * Plugin URI:        https://github.com/YassineCherkaoui/Creation_de_Plugin_Wordpress_de_Rating
+ * Plugin URI:        https://github.com/ABOULFATH-ZAKARIAE/PluginWordpress
  * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
  * Version:           1.0.0
- * Author:            Cherkaoui Yassine
- * Author URI:        https://github.com/YassineCherkaoui
+ * Author:            ABOULFATH ZAKARIAE
+ * Author URI:        https://github.com/ABOULFATH-ZAKARIAE
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       rating
